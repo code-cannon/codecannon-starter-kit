@@ -2,7 +2,7 @@
 
 Use this as a simple structure for a simple start to a simple site.
 
-Visit [code-cannon.github.io/starter-kit](//code-cannon.github.io/codecannon-starter-kit/) for more info.
+Visit [CodeCannon Starter Kit](//code-cannon.github.io/codecannon-starter-kit/) for more info.
 
 ![Watch the video on youtube](/)
 
