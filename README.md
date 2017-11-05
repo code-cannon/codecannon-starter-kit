@@ -4,7 +4,7 @@ Use this as a simple structure for a simple start to a simple site.
 
 Visit [CodeCannon Starter Kit](//code-cannon.github.io/codecannon-starter-kit/) for more info.
 
-![Watch the video on youtube](/)
+![Watch the video on youtube](https://raw.githubusercontent.com/code-cannon/codecannon-starter-kit/master/assets/img/starter-kit-cover.png)
 
 ***
 
