@@ -12,7 +12,7 @@ Visit [Code Starter Kit](//mittalyashu.github.io/code-starter-kit/) for more inf
 
 - [Command Line Interface](https://github.com/mittalyashu/code-starter-kit-cli) for this project!! So cool :)
 
-## Help me! To continue manange this project
+## Help me! To continue manage this project
 
 I've put a lot of time and effort into making **Code Starter Kit** project. If you love it, you can buy me a coffee. I promise it will be a good investment 😉.
 
