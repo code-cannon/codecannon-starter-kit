@@ -4,6 +4,8 @@ Use this as a simple structure for a simple start to a simple site.
 
 Visit [Code Starter Kit](//mittalyashu.github.io/code-starter-kit/) for more info.
 
+[![Visit Code Starter Kit for more info](https://raw.githubusercontent.com/mittalyashu/code-starter-kit/master/assets/img/starter-kit-cover.png)](http://mittalyashu.github.io/code-starter-kit/)
+
 ***
 
 ### Other Versions
